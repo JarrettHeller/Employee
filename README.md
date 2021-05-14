@@ -3,13 +3,7 @@
 Description
 This project allows you to keep track of employees
 
-Table of Contents
-Installation
-Usage
-Contribution
-Tests
-License
-Questions
+
 Installation
 Install project from GitHub
 make sure you have the required node files
